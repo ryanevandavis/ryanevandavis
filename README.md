@@ -6,25 +6,26 @@ Staff Product Designer
 
 I am a designer learning to code. This space is my garden of tests, learning, and progress.
 
-*   🌍  I'm based in New York City
-*   🖥️  See my portfolio at [Design Portfolio](http://ryanevandavis.com)
-*   ✉️  You can contact me at [ryanevendavis@gmail.com](mailto:ryanevendavis@gmail.com)
-*   🧠  I'm learning JavaScript
-*   ⚡  I love making things### Skills 
+* 🌍  I'm based in New York City
+* 🖥️  See my portfolio at [Design Portfolio](http://ryanevandavis.com)
+* ✉️  You can contact me at [ryanevendavis@gmail.com](mailto:ryanevendavis@gmail.com)
+* 🧠  I'm learning JavaScript
+* ⚡  I love making things
+
+### Skills
+
+
 <p align="left">
-ICON ICON ICON ICON ICON ICON 
-                    </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                      <a href="https://www.github.com/ryanevandavis" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/ryanevandavis"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=ryanevandavis&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ICON ICON ICON ICON ICON ICON
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ryanevandavis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ryanevandavis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanevandavis&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
